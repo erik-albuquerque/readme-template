@@ -1,6 +1,6 @@
 <!-- 
 1. Lembrando, você não precisa seguir esse template a risca. Use seu cérebro.
-2. Remova todos so comentários antes de subir seu projeto para o GitHub.'
+2. Remova todos os comentários antes de subir seu projeto para o GitHub.'
 3. Usando link local e link externo nas imagens.
    - Se o diretório ".github" não existir, crie-o na raiz do seu projeto.
    1. Local: <img src=".github/nome_da_imagem.png">  
