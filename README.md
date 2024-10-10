@@ -100,3 +100,5 @@ Distribuído sob a licença MIT. Veja a [LICENSE](https://<repo_link>/LICENSE) p
 Feito com ❤️ por Jhon Doe 👋🏽 [Entre em contato!](seu_linkedin)
 
 [⬆ Voltar ao topo](#project_name)
+
+> Choose your language: [🇧🇷](README.md) [🇺🇸](README%20English.md)
